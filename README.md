@@ -6,7 +6,12 @@
 **Применяемые технологии:**
 ---
 - HTML5, CSS3
-- Bootstrap Grid System, 
-- КомпонентыBootstrap CSS и JavaScript 
+- Bootstrap Grid System
+- Компоненты Bootstrap CSS и JavaScript 
 - Node.js, Scss
 - Grunt
+
+**Планы по доработке:**
+---
+- Улучшить адаптив для малых разрешений экрана
+- Добавить раздел с меню
